@@ -1,4 +1,4 @@
-#include "MyStack.h"
+#include "MyStack.tpp"
 #include <iostream>
 
 void Multipliers(int n, MyStack<int>& stack) {
